@@ -16,13 +16,13 @@ This is a simple React Native app that allows users to swipe through a deck of c
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/swipe-cards-app.git
+git clone https://github.com/Satyaswarup11/React_native_task1.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd swipe-cards-app
+cd React_native_task1
 ```
 
 3. Install dependencies:
