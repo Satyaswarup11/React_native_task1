@@ -7,11 +7,11 @@ This is a simple React Native app that allows users to swipe through a deck of c
 
 ## Technologies Used
 
-- React Nativev
+- React Native
 - [React Native Deck Swiper](https://www.npmjs.com/package/react-native-deck-swiper)
 - [Expo Vector Icons](https://www.npmjs.com/package/@expo/vector-icons)
 
-## Instalation 
+## Installation 
 
 1. Clone the repository:
 
